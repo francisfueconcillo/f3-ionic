@@ -1,0 +1,13 @@
+{
+
+    "name": "f3-angular",
+    "require": {
+        "php": ">=5.3.6",
+        "bcosca/fatfree": ">=3.4.0"
+    },
+
+    "autoload": {
+  		"files": ["vendor/bcosca/fatfree/lib/base.php"]
+  	}
+
+}
